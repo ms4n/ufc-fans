@@ -17,10 +17,8 @@
 			<img
 				src="https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/024162f6-408f-4518-8855-f055df3f5da8%252FTUIVASA_TAI_L_02-12.png?itok=3oinmKUW"
 				alt=""
-				class="h-80 absolute bottom-0 right-0"
+				class="h-80 absolute bottom-0 right-0 -scale-x-100"
 			/>
 		</div>
-
-    
 	</div>
 </main>
