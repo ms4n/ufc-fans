@@ -16,12 +16,8 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		<br />Sanjay's SvelteKit App for UFC Fans
 	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
 
 	<Counter />
 </section>
