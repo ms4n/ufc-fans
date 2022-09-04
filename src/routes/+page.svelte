@@ -3,7 +3,7 @@
 
 	let data = [];
 	onMount(async () => {
-		const res = await fetch('http://localhost:8000/upcoming-events');
+		const res = await fetch('https://ufc-fans-api.azurewebsites.net/upcoming-events');
 
 		const results = await res.json();
 		data = results;
